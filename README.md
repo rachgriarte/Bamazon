@@ -1,3 +1,3 @@
 The app will take in orders from customers and deplete stock from the store's inventory. 
-
-# bamazon
+https://rachgriarte.github.io/Bamazon/  
+# Happy coding!
